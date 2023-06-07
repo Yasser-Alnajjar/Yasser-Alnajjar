@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Languages and Tools
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,php,ts,angular,atom,bootstrap,git,github,mysql,pug,sass,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,php,ts,angular,atom,bootstrap,git,github,mysql,pug,sass,stackoverflow,visualstudio,vscode&theme=light)](https://skillicons.dev)
 <br/>
 <!--
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
