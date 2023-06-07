@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Languages and Tools
 <div align="center">
-  <img src="[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,cpp,php,ts,angular,atom,bootstrap,git,github,mysql,pug,sass,stackoverflow,visualstudio,vscode)](https://skillicons.dev)"/>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,cpp,php,ts,angular,atom,bootstrap,git,github,mysql,pug,sass,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
 
 <br/>
 </div>
