@@ -18,15 +18,6 @@ Here are some ideas to get you started:
 
 ## Languages and Tools
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,cpp,php,ts,angular,atom,bootstrap,git,github,mysql,pug,sass,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
-
-<br/>
-</div>
-
- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Languages and Tools
-<div align="center">
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,cpp,php,ts,angular,atom,bootstrap,git,github,mysql,pug,sass,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
-
 </div>
 
