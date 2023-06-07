@@ -1,4 +1,3 @@
-
 ### Hey there 👋
 
 <!--
@@ -15,16 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 I'm Front End Developer
-My Name's Yasser , 
+My Name's Yasser ,
 23 Years Old.
 I have 3 years of self-study in programming without a mentor . I have a great ambition to continue developing my skills and aspire to work in a collaborative environment.
 I enjoy building great Arabic content and helping others do the same.
-##  Languages and Tools
+
+## Languages and Tools
+
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,php,ts,angular,atom,bootstrap,git,github,mysql,pug,sass,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,ts,angular,react,gulp,webpack,redux,php,atom,git,github,mysql,pug,sass,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
 <br/>
 </div>
-
-
