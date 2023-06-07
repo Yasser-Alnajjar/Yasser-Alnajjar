@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨🏼‍💻I'm Front End Developer
+I'm Front End Developer
 My Name's Yasser , 
 23 Years Old.
 I have 3 years of self-study in programming without a mentor . I have a great ambition to continue developing my skills and aspire to work in a collaborative environment.
