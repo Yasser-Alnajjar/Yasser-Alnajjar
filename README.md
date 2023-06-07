@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 <div align="center">
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,cpp,php,ts,angular,atom,bootstrap,git,github,mysql,pug,sass,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
 <br/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,cpp,php,ts,angular,atom,bootstrap,git,github,mysql,pug,sass,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
 </div>
