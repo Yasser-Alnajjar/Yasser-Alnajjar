@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 <!--
 **Yasser-Alnajjar/Yasser-Alnajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## Languages and Tools
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,php,ts,angular,atom,bootstrap,git,github,mysql,pug,sass,stackoverflow,visualstudio,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,php,ts,angular,atom,bootstrap,git,github,mysql,pug,sass,stackoverflow,visualstudio,vscode&theme=light)](https://skillicons.dev)
 <br/>
 </div>
- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
- 
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px> 
- 
