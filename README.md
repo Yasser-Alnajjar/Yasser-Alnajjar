@@ -23,7 +23,7 @@ I enjoy building great Arabic content and helping others do the same.
 ##  Languages and Tools
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,cpp,php,ts,angular,atom,bootstrap,git,github,mysql,pug,sass,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,php,ts,angular,atom,bootstrap,git,github,mysql,pug,sass,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
 <br/>
 </div>
 
