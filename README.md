@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨🏼‍💻I'm Software Engineer
-My Name's Mohamed , 
-26 Years Old.
-Diligent software engineer, and a content creator , I have 4 years of self-study in programming without a mentor . I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
-I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
-I have knowledge of OOP, algorithm and data structures,solid principles,design patterns,Methodologies: Agile – Scrum, My work includes building user-focused, innovative, and developing clean code with teamwork.
-I enjoy building great Arabic content and helping others do the same. So that's what I'm doing in my content.
-
+👨🏼‍💻I'm Front End Developer
+My Name's Yasser , 
+23 Years Old.
+I have 3 years of self-study in programming without a mentor . I have a great ambition to continue developing my skills and aspire to work in a collaborative environment.
+I enjoy building great Arabic content and helping others do the same.
 ##  Languages and Tools
 <div align="center">
   
