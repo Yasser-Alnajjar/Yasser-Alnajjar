@@ -25,6 +25,6 @@ I enjoy building great Arabic content and helping others do the same.
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,ts,angular,react,next,gulp,webpack,redux,php,atom,git,github,mysql,pug,sass,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,ts,jquery,angular,react,next,gulp,webpack,redux,php,atom,git,github,mysql,pug,sass,npm,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
 <br/>
 </div>
