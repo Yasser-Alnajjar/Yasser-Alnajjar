@@ -1,30 +1,29 @@
-### Hey there 👋
+<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yasser-Alnajjar&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-<!--
-**Yasser-Alnajjar/Yasser-Alnajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  <span>Hey there </span>
+  <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+</h3>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A79C8&random=false&width=435&lines=Welcome+To+My+Profile+%F0%9F%98%8A;%3D%3E+Front+End++Developer+" alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
+- I'm a Front End Developer
+- I'm constantly learning and exploring new technologies to improve my skills.
+- I have 3 years of experience
+- I'm experienced in developing web projects, specializing in web application development using JavaScript
+- frameworks like react.js and next.js, vue.js, I love learning and am extremely excited to
+  build more projects to get more experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm Front End Developer
-My Name's Yasser ,
-23 Years Old.
-I have 3 years of self-study in programming without a mentor . I have a great ambition to continue developing my skills and aspire to work in a collaborative environment.
-I enjoy building great Arabic content and helping others do the same.
-
-## Languages and Tools
+### 🛠 Languages and Tools
 
 <div  >
-  
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,ts,jquery,angular,react,next,gulp,webpack,redux,php,atom,git,github,mysql,pug,sass,tailwindcss,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,ts,jquery,vue,react,next,gulp,webpack,redux,php,atom,git,github,mysql,pug,sass,tailwindcss,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
 <br/>
+
 </div>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yasser-Alnajjar&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
