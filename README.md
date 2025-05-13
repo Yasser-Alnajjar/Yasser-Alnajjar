@@ -11,9 +11,8 @@
 
 - I'm a Front End Developer
 - I'm constantly learning and exploring new technologies to improve my skills.
-- I have 3 years of experience
 - I'm experienced in developing web projects, specializing in web application development using JavaScript
-- frameworks like react.js and next.js, vue.js, I love learning and am extremely excited to
+- frameworks like react.js and next.js, I love learning and am extremely excited to
   build more projects to get more experience.
 
 ### 🛠 Languages and Tools
