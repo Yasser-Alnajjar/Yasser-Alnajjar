@@ -23,4 +23,4 @@
 <br/>
 
 </div>
-
+- [Project A](https://github.com/olduser/project-a) – Lead frontend dev
