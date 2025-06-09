@@ -19,7 +19,7 @@
 
 <div  >
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,ts,jquery,vue,react,next,gulp,webpack,redux,php,atom,git,github,mysql,pug,sass,tailwindcss,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,ts,react,next,gulp,webpack,redux,zod,yup,atom,git,github,sass,tailwindcss,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
 <br/>
 
 </div>
